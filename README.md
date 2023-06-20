@@ -28,6 +28,6 @@ Cozy Amazong es una página web diseñada para ayudar a los clientes a acceder d
 
 ## Contacto
 
-Si tienes alguna pregunta, consulta o simplemente quieres decir hola, no dudes en contactarnos a través del correo electrónico info@cozyproductreviews.com.
+Si tienes alguna pregunta, consulta o simplemente quieres decir hola, no dudes en contactarnos a través del correo electrónico cozyamazong@gmail.com.
 
 ¡Esperamos que encuentres nuestra página web útil y que te inspire a crear un ambiente acogedor en tu hogar!
